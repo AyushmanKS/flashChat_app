@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648834852632",
+    "project_id": "flash-chataks",
+    "storage_bucket": "flash-chataks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648834852632:android:fc268fe8e961ef93ae206d",
+        "android_client_info": {
+          "package_name": "com.AKS.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648834852632-gkkujqp72o72v8mtrrca98btr1apnlpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATaSfFTGdqp1J9ZG1PWxDbGsWg8g5gmWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648834852632-gkkujqp72o72v8mtrrca98btr1apnlpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
